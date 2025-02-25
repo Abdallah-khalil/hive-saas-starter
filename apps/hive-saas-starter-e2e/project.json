@@ -1,0 +1,9 @@
+{
+  "name": "hive-saas-starter-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/hive-saas-starter-e2e/src",
+  "implicitDependencies": ["hive-saas-starter"],
+  "// targets": "to see all targets run: nx show project hive-saas-starter-e2e --web",
+  "targets": {}
+}
