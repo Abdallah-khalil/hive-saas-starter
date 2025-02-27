@@ -4,7 +4,7 @@
   "projectType": "application",
   "prefix": "app",
   "sourceRoot": "apps/hive-saas-starter/src",
-  "tags": [],
+  "tags": ["type:app", "platform:web"],
   "targets": {
     "build": {
       "executor": "@angular-devkit/build-angular:application",
